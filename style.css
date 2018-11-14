@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda");
+
+img {
+  width: 175px;
+  height: 175px;
+}
+
+span {
+  padding: 0 10px;
+}
+
+.icon_color {
+  color: #22b24c;
+}
+
+.change_font {
+  font-family: "Merienda", cursive;
+}
+
+#animation {
+  visibility: hidden;
+}
+
+#font {
+  font-family: "Merienda", cursive;
+}
